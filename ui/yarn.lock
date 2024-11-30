@@ -2281,16 +2281,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tinymce/tinymce-react@npm:^4.3.2":
-  version: 4.3.2
-  resolution: "@tinymce/tinymce-react@npm:4.3.2"
+"@tinymce/tinymce-react@npm:^5.0.1":
+  version: 5.0.1
+  resolution: "@tinymce/tinymce-react@npm:5.0.1"
   dependencies:
     prop-types: ^15.6.2
-    tinymce: ^6.0.0 || ^5.5.1
+    tinymce: ^7.0.0 || ^6.0.0 || ^5.5.1
   peerDependencies:
     react: ^18.0.0 || ^17.0.1 || ^16.7.0
     react-dom: ^18.0.0 || ^17.0.1 || ^16.7.0
-  checksum: 7c28a8c59296b73070ddb6fefa04ee96d13cf52bdc3b406dc18e339991c8523daa839f11fc11654644e78b9aff689e66aa5eb47c8b852ebb97c40b87a9d3752c
+  checksum: 80a2b1acc6c16eeb4bd5d5960727ca128ec068fd98c695ce1b066314957f5aa31e7066cb75064459a99bac598f7ae5a0faf7862a70904cc6f55ec4a52428132c
   languageName: node
   linkType: hard
 
@@ -4093,7 +4093,7 @@ __metadata:
     "@testing-library/jest-dom": ^6.1.5
     "@testing-library/react": ^14.1.2
     "@testing-library/user-event": ^14.5.1
-    "@tinymce/tinymce-react": ^4.3.2
+    "@tinymce/tinymce-react": ^5.0.1
     "@types/diff": ^5.0.9
     "@types/file-saver": ^2.0.7
     "@types/jest": ^29.5.12
@@ -12786,10 +12786,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tinymce@npm:^6.0.0 || ^5.5.1, tinymce@npm:^6.8.2":
+"tinymce@npm:^6.8.2":
   version: 6.8.3
   resolution: "tinymce@npm:6.8.3"
   checksum: 2ce922ceb60636778afb21a493e99d561e73f82c5fb331a4f666d973129ca27277bc1b6332d6932ab8fe0a379b1f201285f143a2d72646a813fda88a0dec5312
+  languageName: node
+  linkType: hard
+
+"tinymce@npm:^7.0.0 || ^6.0.0 || ^5.5.1":
+  version: 7.0.1
+  resolution: "tinymce@npm:7.0.1"
+  checksum: 981c151c6281361fe2b0961df9b2de3e1665c76f68c967db4d7359f6cd8bb2451d2d7e30d8283a5ec04cf2a54dd063b42286e8bd9565a86b7949ec9a88f1fdab
   languageName: node
   linkType: hard
 

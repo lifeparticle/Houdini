@@ -30,7 +30,7 @@
 		"@mantine/hooks": "^6.0.10",
 		"@monaco-editor/react": "^4.6.0",
 		"@tanstack/react-query": "^5.13.4",
-		"@tinymce/tinymce-react": "^4.3.2",
+		"@tinymce/tinymce-react": "^5.0.1",
 		"@types/file-saver": "^2.0.7",
 		"@types/react-router-dom": "^5.3.3",
 		"@uiw/react-markdown-preview": "^5.0.3",
