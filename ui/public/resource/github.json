@@ -130,5 +130,21 @@
 				"name": "GitHub"
 			}
 		]
+	},
+	{
+		"name": "ui-beats",
+		"category": "Library",
+		"subCategory": ["JavaScript", "Web Development"],
+		"url": "https://github.com/nikhils4/ui-beats",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			},
+			{
+				"url": "https://uibeats.com",
+				"name": "Website"
+			}
+		]
 	}
 ]
