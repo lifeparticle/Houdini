@@ -26,7 +26,7 @@
 		"@faker-js/faker": "^8.4.1",
 		"@ffmpeg/ffmpeg": "^0.12.7",
 		"@ffmpeg/util": "^0.12.1",
-		"@mantine/core": "^6.0.10",
+		"@mantine/core": "^7.10.1",
 		"@mantine/hooks": "^6.0.10",
 		"@monaco-editor/react": "^4.6.0",
 		"@tanstack/react-query": "^5.13.4",
